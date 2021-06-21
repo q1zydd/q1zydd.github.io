@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 狗是怎么叫的：在吗 在干嘛 吃了吗 睡了没 多喝水 多穿点 早点睡 少熬夜 小心着凉 早点回家 记得吃药 给你点了外卖 晚安
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
+
